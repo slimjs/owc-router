@@ -1,0 +1,17 @@
+{
+  "name": "@owc/router",
+  "version": "1.0.0",
+  "description": "Router-Outlet web-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "router",
+    "web-components",
+    "html",
+    "owc"
+  ],
+  "author": "Avichay Eyal",
+  "license": "MIT"
+}
